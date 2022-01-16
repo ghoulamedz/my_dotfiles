@@ -1,0 +1,26 @@
+intellijIDEA
+openjdk java 8
+openjdk-doc java 8
+openjdk java 17.1
+qpdfview
+master pdf editor
+thunar file manager
+chrome
+firefox
+vscode
+mySQL Workbench
+mariadb
+postman-bin
+evince
+gnome disks
+gimp
+htop
+mousepad
+vlc
+idevicepair
+libimobiledevice
+ifuse
+efibootmgr
+python
+nodejs
+npm
